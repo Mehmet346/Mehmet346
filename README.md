@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://fosstodon.org/@mehmetali" target="blank">
-    <img src="https://img.shields.io/badge/Ek%C5%9Fi%20S%C3%B6zl%C3%BCk-A3CC00?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Mastodon" />
+    <img src="https://img.shields.io/badge/Ek%C5%9Fi%20S%C3%B6zl%C3%BCk-A3CC00?style=for-the-badge&logo=Eksi&colorA=302D41&colorB=A3CC00" alt="Eksi" />
   </a>
   
   <a href="https://fosstodon.org/@mehmetali" target="blank">
