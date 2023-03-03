@@ -21,7 +21,8 @@
   </a>
   
   <a href="https://fosstodon.org/@mehmetali" target="blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Ek%C5%9Fi_S%C3%B6zl%C3%BCk_logo_2.png&colorA=302D41&colorB=2b90d9" alt="Mastodon" />
+    <img src="https://img.shields.io/eksisozluk/follow/320219?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=for-the-badge&colorA=302D41&colorB=2b90d9" alt="Mastodon" />
+  </a>
   
   <a href="https://fosstodon.org/@mehmetali" target="blank">
     <img src="https://img.shields.io/mastodon/follow/320219?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=for-the-badge&colorA=302D41&colorB=2b90d9" alt="Mastodon" />
