@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/mehmet-ali-ozdogan/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Linkedin" />
   </a>
-  <a href="https://instagram.com/mr.ozdgnx" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=F28FAD" alt="Instagram" />
-  </a>
 </p>
 
 
