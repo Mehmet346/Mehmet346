@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://www.mehmetaliozdogan.com/images/author/john_hu688afb2548339fa98db61267080bb57a_230821_148x148_fit_box_2.png" width="30px">, I'm Mehmet Ali.</h1>
-<h3 align="center">Currently, I am continuing my software engineering at Istanbul Topkapı University. He works as a software engineer at İnfina Yazılım A.Ş. I am a team-oriented person who can take responsibility for leadership. I am a software engineer candidate who is open to development, dynamic and always striving to reach his ideals.</h3>  
+<h3 align="center">Currently, I am continuing my software engineering at Istanbul Topkapı University. He works as a software engineer at İnfina Yazılım A.Ş. I am a team-oriented person who can take responsibility for leadership. I am a software engineer candidate who is open to development, dynamic and always striving to reach his ideals..</h3>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmet346&style=flat-square&color=444444&label=Views" alt="mehmet346" /> </p>
 
